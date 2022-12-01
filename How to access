@@ -1,1 +1,5 @@
-
+Step 1 : Download Eclipse and Xampp control panel.
+Step 2 : Download .war file and database file (SQL source file) from below.
+Step 3 : Open Eclipse and IMPORT downloaded .war file.
+Step 4 : Open Xampp and IMPORT the downloaded database file (SQL source file).
+Step 5 : Goto Eclipse and run the project as run on server.
